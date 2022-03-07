@@ -1,6 +1,3 @@
-
-package sistema.bancario;
-
 import java.util.ArrayList;
 
 public class Campos {
